@@ -1,1 +1,2 @@
 # QuadraticEquationSolver
+"QuadraticEquationSolver" is a Python script that calculates the solutions to a quadratic equation based on the user-provided coefficients (a, b, and c). It uses the quadratic formula to determine the roots. The script can find two real solutions when the discriminant is positive, one real solution when the discriminant is zero, or no real solution when the discriminant is negative. It then displays the calculated solutions or a suitable message. This script is useful for solving quadratic equations in mathematics and science.
